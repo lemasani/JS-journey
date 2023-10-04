@@ -1,3 +1,0 @@
-NAME: Brian lemasani
-CLASS: CIT
-Course: Python programming
