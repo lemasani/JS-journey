@@ -1,0 +1,101 @@
+1. Intro to Javascript.
+Javascript is one of the core technologies of the web alongside 
+with HTMl and CSS
+it is used for;
+        1. DOM manipulation(document object Model)
+        2. Event handling. (eg clicks,forms, )
+        3. Asynchoronous Requests
+        4. Animations and effects
+        5. Data manipulation(sorting, filter, etc)
+        6. Storing data(cookies, sessions)
+        7. Creating single page applications(SPA)
+        8. Creating APIs & Web services(Node, Deno)
+
+why learn it;
+    1. Popularity
+    2. Versatility
+    3. Relatively easy to learn
+    4. large community of developers
+
+
+Tools used during the Journey.
+    1. IDE (visual studio code)
+    2. GIT and GITHUB
+    3. Node.js
+    4. Extensions(liveserver, codeRun, Prettier)
+
+
+
+2. Variables, DataTypes & More
+
+Getting to know the console tab in the developer tools in the 
+web browser.
+Can be used to debug and messages about the Javascript code that
+a developer wrote.
+in the console, Javascript code can also be written and have impact 
+on the browser, but do disappear once the page is reloaded.
+
+they are different console codes
+  1. console.log()
+  2. console.error()
+  3. console.warn()
+  4. console.table()
+  5. console.group() > console.groupEnd()
+
+
+Comments and shortcuts
+comments help;
+    1. documenting code
+    2. Used in prevention of code executions
+
+To comment a single line of code double '/' is used at the
+start of the line.
+
+To comment muiltple lines of code '/*' is used at the start 
+and finished with '*/'
+
+
+Variables:
+
+ways to declare Variables
+ 1. var
+ 2. let
+ 3. const
+
+
+naming conventions 
+-only letters, numbers, underscores and dollar signs
+-cannot start with a number
+
+Multi-word formatting
+ firstName = camelcase
+ firstn_name = underscore
+ FirstName = Pascalcase
+ firstname = lowercase
+
+Primitive Data Types
+    1. String-sequence of characters enclosed in quotes or backticks
+    2. number- intergers
+    3. Boolen - true or false
+    4. NUll - intentional absence of any object
+    5. undefined- Variable that has not yet been defined
+    6. Symbol - built-in object whose constructor returns a unique Symbol
+    7. BigInt - numbers that are greater than 'number' can handle
+
+Reference Types(objects)
+are a non-Primitive value and when assigned to a variable, the variable is a given a 
+Reference to that value.
+object literals, arrays and functions are all Reference types
+
+Static Typing vs Dynamic Typing
+Javascript is a dynamically-typed language, this means there is no need
+to explicitly define the types for our variables, like in statically-typed such assigned
+C, C++ and Java.
+
+TypeScript is a superset of Javascript. this allows static-typing.
+
+any Reference type is an object which including arrays, functions etc
+
+Primitive types: are stored directly in the stack
+
+Reference types: stored in the heap
