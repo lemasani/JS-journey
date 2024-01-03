@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+}
+
+
+.danger{
+    background: red;
+}
+
+.post{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    border-radius: 8px;
+    background: #ccc;
+}
