@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Christopher Nolan",
+        "age": 51,
+        "movie": "Inception"
+    },
+    {
+        "name": "Steven Spielberg",
+        "age": 75,
+        "movie": "Jurassic Park"
+    },
+    {
+        "name": "Quentin Tarantino",
+        "age": 58,
+        "movie": "Pulp Fiction"
+    },
+    {
+        "name": "Martin Scorsese",
+        "age": 79,
+        "movie": "The Wolf of Wall Street"
+    },
+    {
+        "name": "James Cameron",
+        "age": 67,
+        "movie": "Avatar"
+    }
+]
